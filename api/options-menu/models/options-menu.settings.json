@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "options_menus",
+  "info": {
+    "name": "OptionsMenu"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "option": {
+      "type": "string",
+      "required": true
+    },
+    "menu": {
+      "via": "options_menus",
+      "model": "menu"
+    }
+  }
+}
