@@ -15,8 +15,8 @@
       "unique": true
     },
     "options_menus": {
-      "collection": "options-menu",
-      "via": "menu"
+      "via": "menu",
+      "collection": "options-menu"
     }
   }
 }

@@ -14,8 +14,14 @@
       "required": true
     },
     "menu": {
-      "via": "options_menus",
-      "model": "menu"
+      "model": "menu",
+      "via": "options_menus"
+    },
+    "price": {
+      "type": "decimal",
+      "required": false,
+      "min": 0,
+      "default": 0
     }
   }
 }
