@@ -12,7 +12,8 @@
     "title": {
       "type": "string",
       "required": true,
-      "unique": true
+      "unique": true,
+      "maxLength": 14
     },
     "options_menus": {
       "via": "menu",

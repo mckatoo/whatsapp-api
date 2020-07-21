@@ -11,7 +11,8 @@
   "attributes": {
     "option": {
       "type": "string",
-      "required": true
+      "required": true,
+      "maxLength": 14
     },
     "menu": {
       "model": "menu",
