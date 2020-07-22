@@ -1,9 +1,17 @@
 <h1 align="center">
     <img alt="Whatsapp with hat, glasses and tie" src="./public/github/logo.svg?raw=true" />
     <br>
-    Whatsapp Bot
+    Whatsapp Api
 </h1>
+<h3 align="center">
+  <a href="https://github.com/mckatoo/whatsapp-bot">
+  For Whatsapp Bot
+  </a>
+  <br>
+Api for use with <a href="https://github.com/mckatoo/whatsapp-bot">Whatsapp Bot</a> providing easy registration of menus and their items.
+</h3>
 <h4 align="center">
+<br>
 <img alt="Commitizen friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mckatoo/whatsapp-api">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/mckatoo/whatsapp-api/total">
@@ -72,6 +80,7 @@ $ npm run develop
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.18][nodejs] or higher + [Yarn v1.22][yarn] or higher installed on your computer. From your command line:
 
 ### Fork the repository
+
 <img alt="Forking Repository clicking in the fork button on top right button on screen" src="./public/github/fork.png">
 
 ```bash
@@ -123,6 +132,7 @@ $ git push origin your-branch
 # Click on the green button labeled 'Create pull request'.
 # Okay, now just wait for approval or not.
 ```
+
 For a better illustration of the process, follow a video by [Diego Fernandes of RocketSeat](https://youtu.be/mcd7lqpUzIA)
 
 ## :memo: License
