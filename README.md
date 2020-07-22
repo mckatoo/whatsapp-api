@@ -51,7 +51,7 @@ This project was developed with the [William Justen Video](https://www.youtube.c
 
 To use and test the application, you must have already set up the development environment for NodeJS applications. You can install and configure NodeJS:
 
-<a href="https://nodejs.org/"><img style="background-color: darkslategrey; padding:7px; border-radius: 5px" width=90 src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://nodejs.org/"><img height=60 src="./public/github/nodejs.svg"></a>
 
 ## :information_source: How To Use
 
