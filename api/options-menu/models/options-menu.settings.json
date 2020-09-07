@@ -15,8 +15,8 @@
       "maxLength": 14
     },
     "menu": {
-      "model": "menu",
-      "via": "options_menus"
+      "via": "options_menus",
+      "model": "menu"
     },
     "price": {
       "type": "decimal",
