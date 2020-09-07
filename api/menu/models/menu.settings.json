@@ -13,11 +13,11 @@
       "type": "string",
       "required": true,
       "unique": true,
-      "maxLength": 14
+      "maxLength": 25
     },
     "options_menus": {
-      "via": "menu",
-      "collection": "options-menu"
+      "collection": "options-menu",
+      "via": "menu"
     }
   }
 }

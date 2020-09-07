@@ -27,27 +27,27 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^9.1.1",
-    "@commitlint/config-conventional": "^9.1.1",
-    "commitizen": "^4.1.2",
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
+    "commitizen": "^4.2.1",
     "cross-env": "^7.0.2",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
+    "lint-staged": "^10.3.0",
+    "prettier": "^2.1.1"
   },
   "dependencies": {
-    "knex": "<0.20.0",
+    "knex": "<0.22.0",
     "sqlite3": "latest",
-    "strapi": "3.0.5",
-    "strapi-admin": "3.0.5",
+    "strapi-admin": "3.1.4",
+    "strapi": "3.1.4",
     "strapi-connector-bookshelf": "3.1.4",
-    "strapi-plugin-content-manager": "3.0.5",
-    "strapi-plugin-content-type-builder": "3.0.5",
-    "strapi-plugin-email": "3.0.5",
-    "strapi-plugin-graphql": "3.0.5",
-    "strapi-plugin-upload": "3.0.5",
-    "strapi-plugin-users-permissions": "3.0.5",
-    "strapi-utils": "3.0.5"
+    "strapi-plugin-content-manager": "3.1.4",
+    "strapi-plugin-content-type-builder": "3.1.4",
+    "strapi-plugin-email": "3.1.4",
+    "strapi-plugin-graphql": "3.1.4",
+    "strapi-plugin-upload": "3.1.4",
+    "strapi-plugin-users-permissions": "3.1.4",
+    "strapi-utils": "3.1.4"
   },
   "author": {
     "name": "A Strapi developer"
