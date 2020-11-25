@@ -29,8 +29,10 @@
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
+    "babel-eslint": "^10.1.0",
     "commitizen": "^4.2.1",
     "cross-env": "^7.0.2",
+    "eslint": "^7.14.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.3.0",
     "prettier": "^2.1.1"
@@ -38,9 +40,9 @@
   "dependencies": {
     "knex": "<0.22.0",
     "sqlite3": "latest",
+    "strapi": "3.3.3",
     "strapi-admin": "3.3.2",
     "strapi-connector-bookshelf": "3.3.3",
-    "strapi": "3.3.3",
     "strapi-plugin-content-manager": "3.3.3",
     "strapi-plugin-content-type-builder": "3.3.3",
     "strapi-plugin-email": "3.2.5",

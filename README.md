@@ -69,6 +69,9 @@ $ yarn
 # or
 $ npm install
 
+# Copy .env.example for .env and create ADMIN_JWT_SECRET token
+$ cp .env.example .env && echo "ADMIN_JWT_SECRET=$(openssl rand 64 | base64)" >> .env
+
 # Run the app
 $ yarn develop
 # or
