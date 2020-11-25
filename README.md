@@ -80,7 +80,7 @@ $ npm run develop
 
 ## :information_source: How To Contribute
 
-
+To contribute to this project, read the [contribution guide](https://github.com/mckatoo/whatsapp-api/blob/master/CONTRIBUTING.md) and be sure to read the [code of conduct](https://github.com/mckatoo/whatsapp-api/blob/master/CODE_OF_CONDUCT.md).
 
 ## :memo: License
 
