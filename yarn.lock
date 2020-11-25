@@ -2804,7 +2804,7 @@ boom@^7.3.0:
   dependencies:
     hoek "6.x.x"
 
-bootstrap@^4.5.2, bootstrap@^4.5.3:
+bootstrap@^4.5.3:
   version "4.5.3"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.5.3.tgz#c6a72b355aaf323920be800246a6e4ef30997fe6"
   integrity sha512-o9ppKQioXGqhw8Z7mah6KdTYpNQY//tipnkxppWhPbiSWdD+1raYsnhwEZjkTHYbGee4cVQ0Rx65EhOY/HNLcQ==
@@ -5292,7 +5292,7 @@ formidable@^1.1.1:
   resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.2.2.tgz#bf69aea2972982675f00865342b982986f6b8dd9"
   integrity sha512-V8gLm+41I/8kguQ4/o1D3RIHRmhYFG4pnNyonvua+40rqcEmT4+V71yaZ3B457xbbgCsCfjSPi65u/W6vK1U5Q==
 
-formik@^2.1.4:
+formik@^2.2.4:
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/formik/-/formik-2.2.5.tgz#addf4ed7a15ebddf22c883a3d358cd27c8a91a55"
   integrity sha512-KkOsyYmh5xsow+wlbdL9QSkqvbiHSb1RIToBKiooCFW4lyypn+ZlHGjTuuOqUWBqZaI5nCEupeI275Mo6tFBzg==
@@ -10876,10 +10876,10 @@ std-env@^2.2.1:
   dependencies:
     ci-info "^1.6.0"
 
-strapi-admin@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/strapi-admin/-/strapi-admin-3.3.2.tgz#0f3e346049f1bd3dc391d79df224cab4d79f691e"
-  integrity sha512-cVs2S9FwQNPIw+hXBpQK/usMJ7N7Lf41nzIV5/gjmJEgaUrvfF6pl3+KPECjHLbjIXzpPfnqQ0u+9KrZF4kKjQ==
+strapi-admin@3.3.3:
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/strapi-admin/-/strapi-admin-3.3.3.tgz#9dfe8f17867ed8648d1501b84425a04ad9702f51"
+  integrity sha512-AgZfqUzSxmKtc50mbszjI61Bwrqp0NgP5YLUpZTz/MbjJnYXh6zs7EKPywAwdjyQkUvYDaX1yg25CT9bj08YQA==
   dependencies:
     "@babel/core" "^7.12.3"
     "@babel/plugin-proposal-async-generator-functions" "^7.10.5"
@@ -10907,7 +10907,7 @@ strapi-admin@3.3.2:
     axios "^0.20.0"
     babel-loader "^8.1.0"
     bcryptjs "^2.4.3"
-    bootstrap "^4.5.2"
+    bootstrap "^4.5.3"
     chalk "^2.4.2"
     chokidar "^3.2.1"
     classnames "^2.2.6"
@@ -10917,7 +10917,7 @@ strapi-admin@3.3.2:
     execa "^1.0.0"
     file-loader "^6.1.0"
     font-awesome "^4.7.0"
-    formik "^2.1.4"
+    formik "^2.2.4"
     friendly-errors-webpack-plugin "^1.7.0"
     fs-extra "^9.0.1"
     history "^4.9.0"
@@ -10961,8 +10961,8 @@ strapi-admin@3.3.2:
     reselect "^4.0.0"
     sanitize.css "^4.1.0"
     sift "13.1.10"
-    strapi-helper-plugin "3.3.2"
-    strapi-utils "3.3.2"
+    strapi-helper-plugin "3.3.3"
+    strapi-utils "3.3.3"
     style-loader "^0.23.1"
     styled-components "^5.0.0"
     terser-webpack-plugin "^1.2.3"
@@ -11077,33 +11077,6 @@ strapi-generate@3.3.3:
     lodash "4.17.19"
     reportback "^2.0.2"
     strapi-utils "3.3.3"
-
-strapi-helper-plugin@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/strapi-helper-plugin/-/strapi-helper-plugin-3.3.2.tgz#e8d1982427572a48ac4130854adab54e41fc54c2"
-  integrity sha512-jmSyM4kw0NlSFMxm5Wi3ZFo6BSbS+ybG/nW1C6hkKfpZfvqWMjC8isaGhDpS30EoPnU59Ya46piAEl5vWj84Fg==
-  dependencies:
-    "@buffetjs/core" "3.3.1"
-    "@buffetjs/custom" "3.3.1"
-    "@buffetjs/hooks" "3.3.1"
-    "@buffetjs/icons" "3.3.1"
-    "@buffetjs/styles" "3.3.1"
-    "@buffetjs/utils" "3.3.1"
-    bootstrap "^4.5.2"
-    classnames "^2.2.5"
-    immutable "^3.8.2"
-    invariant "^2.2.1"
-    lodash "4.17.19"
-    moment "^2.16.0"
-    react "^16.13.1"
-    react-dom "^16.9.0"
-    react-helmet "^6.1.0"
-    react-intl "4.5.0"
-    react-router "^5.0.0"
-    react-router-dom "^5.0.0"
-    reactstrap "8.4.1"
-    styled-components "^5.0.0"
-    whatwg-fetch "^3.3.1"
 
 strapi-helper-plugin@3.3.3:
   version "3.3.3"
@@ -11324,18 +11297,6 @@ strapi-utils@3.2.5:
   version "3.2.5"
   resolved "https://registry.yarnpkg.com/strapi-utils/-/strapi-utils-3.2.5.tgz#9e757ca9009c2211eec491514b2f0f3c7865f035"
   integrity sha512-d9CuD/DLV9ppmjtxpXtuZCl9MMnz8jIJxw7DS8t6By0DRl31CrM7lsNUo4iXj0YSFLa0NCotVYUozcY+vtDwnw==
-  dependencies:
-    "@sindresorhus/slugify" "1.1.0"
-    date-fns "^2.8.1"
-    lodash "4.17.19"
-    pino "^4.7.1"
-    pluralize "^8.0.0"
-    yup "0.29.3"
-
-strapi-utils@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/strapi-utils/-/strapi-utils-3.3.2.tgz#3099652d5c36d394f008113d573ee934b31f70c3"
-  integrity sha512-OcijwnTnwTe54GySTGqaNWJYOJBU1q8X9VNtdCRsaeQSaS0H2xl3XBbx0Ikc7qWNa9PUhNyqIu4o/cJBX7NfBA==
   dependencies:
     "@sindresorhus/slugify" "1.1.0"
     date-fns "^2.8.1"
