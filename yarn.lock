@@ -11240,10 +11240,10 @@ strapi-plugin-graphql@3.3.3:
     pluralize "^8.0.0"
     strapi-utils "3.3.3"
 
-strapi-plugin-upload@3.3.3:
-  version "3.3.3"
-  resolved "https://registry.yarnpkg.com/strapi-plugin-upload/-/strapi-plugin-upload-3.3.3.tgz#148045749d2dda29c3ac33840a9042700b290217"
-  integrity sha512-ilNYYwCpcTKChKaewZx6KdHT/7THfSxUzw+/Sglv5aojQxH2/EWyBPwM+9FlPKkQEqSBYwH3FPorRdeJQcaJ4Q==
+strapi-plugin-upload@3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-upload/-/strapi-plugin-upload-3.3.4.tgz#3aa3f8ddfd2e3818c694f6f3afff9cea5fcedcb9"
+  integrity sha512-GNc2P3/vbuRSDHTbIbhCcxzlK2ct/t+IKcNKyOQ98GKPb7DsWBX4IH4T1kQ5S9ZPRvHe48pQ2COjy+n9H4KveA==
   dependencies:
     "@buffetjs/core" "3.3.1"
     "@buffetjs/custom" "3.3.1"
@@ -11269,9 +11269,9 @@ strapi-plugin-upload@3.3.3:
     react-router-dom "^5.0.0"
     reactstrap "8.4.1"
     sharp "0.26.2"
-    strapi-helper-plugin "3.3.3"
-    strapi-provider-upload-local "3.3.3"
-    strapi-utils "3.3.3"
+    strapi-helper-plugin "3.3.4"
+    strapi-provider-upload-local "3.3.4"
+    strapi-utils "3.3.4"
     stream-to-array "^2.3.0"
     uuid "^3.2.1"
 
@@ -11315,10 +11315,10 @@ strapi-provider-email-sendmail@3.3.3:
     sendmail "^1.6.1"
     strapi-utils "3.3.3"
 
-strapi-provider-upload-local@3.3.3:
-  version "3.3.3"
-  resolved "https://registry.yarnpkg.com/strapi-provider-upload-local/-/strapi-provider-upload-local-3.3.3.tgz#40479ae6350a8fe00be45ae050f17a0d5a677411"
-  integrity sha512-PjDG7igi/yCxpc5qJbXn8+vXpPGRwlkSryeVWoZvnPDMVE5K6/B5zb/RdAj3sDtNbTd2wF9ex5VKPVOo05olYA==
+strapi-provider-upload-local@3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/strapi-provider-upload-local/-/strapi-provider-upload-local-3.3.4.tgz#58f5a86a7b41ed15b193d3f7469ed23bfa689081"
+  integrity sha512-gH1plLdSnrJ3nzpy7DPpSfBCtBMP+Ne0U061CojRtDEH7ljngP5Hdtb3QaEmw5v5C8LM/ieYH/g5TzEo8v4f6Q==
 
 strapi-utils@3.3.3:
   version "3.3.3"
