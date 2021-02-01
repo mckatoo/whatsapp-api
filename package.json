@@ -49,7 +49,7 @@
     "strapi-plugin-graphql": "3.3.4",
     "strapi-plugin-upload": "3.3.4",
     "strapi-plugin-users-permissions": "3.3.4",
-    "strapi-utils": "3.3.4"
+    "strapi-utils": "3.4.5"
   },
   "author": {
     "name": "A Strapi developer"
