@@ -41,7 +41,7 @@
     "knex": "<0.22.0",
     "sqlite3": "latest",
     "strapi": "3.3.4",
-    "strapi-admin": "3.3.4",
+    "strapi-admin": "3.6.1",
     "strapi-connector-bookshelf": "3.3.4",
     "strapi-plugin-content-manager": "3.3.4",
     "strapi-plugin-content-type-builder": "3.3.4",
