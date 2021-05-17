@@ -49,7 +49,7 @@
     "strapi-plugin-graphql": "3.3.4",
     "strapi-plugin-upload": "3.3.4",
     "strapi-plugin-users-permissions": "3.3.4",
-    "strapi-utils": "3.3.4"
+    "strapi-utils": "3.6.2"
   },
   "author": {
     "name": "Milton Carlos Katoo"
