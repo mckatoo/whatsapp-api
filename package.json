@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
-    "@commitlint/config-conventional": "^11.0.0",
+    "@commitlint/config-conventional": "^12.1.4",
     "babel-eslint": "^10.1.0",
     "commitizen": "^4.2.1",
     "cross-env": "^7.0.3",
@@ -47,7 +47,7 @@
     "strapi-plugin-content-type-builder": "3.6.5",
     "strapi-plugin-email": "3.3.4",
     "strapi-plugin-graphql": "3.3.4",
-    "strapi-plugin-upload": "3.3.4",
+    "strapi-plugin-upload": "3.6.5",
     "strapi-plugin-users-permissions": "3.6.5",
     "strapi-utils": "3.3.4"
   },
