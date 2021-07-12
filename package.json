@@ -38,7 +38,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
-    "knex": "<0.22.0",
+    "knex": "<0.96.0",
     "sqlite3": "latest",
     "strapi": "3.6.5",
     "strapi-admin": "3.6.5",
